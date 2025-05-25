@@ -1,0 +1,17 @@
+{
+  "name": "Magic",
+  "symbol": "XMC",
+  "uri": "https://example.com/metadata",
+  "uri_image": "https://example.com/image.png",
+  "creator": "wallet_address_of_creator",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Digital Art"
+    }
+  ]
+}
