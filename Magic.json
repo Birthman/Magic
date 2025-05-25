@@ -1,9 +1,8 @@
 {
   "name": "Magic",
   "symbol": "XMC",
-  "uri": "https://example.com/metadata",
-  "uri_image": "https://example.com/image.png",
-  "creator": "wallet_address_of_creator",
+  "description": "A mystical token that holds ancient power.",
+  "image": "https://raw.githubusercontent.com/Birthman/Magic/main/Magic%20Genie%20Lamp.png",
   "attributes": [
     {
       "trait_type": "Rarity",
